@@ -3,6 +3,8 @@ name = "hasten"
 version = "0.1.0"
 authors = ["Giovanni Petrantoni <giovanni@fragcolor.xyz>"]
 edition = "2018"
+description = "A chainblocks front-end"
+license = "BSD-3-Clause"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
